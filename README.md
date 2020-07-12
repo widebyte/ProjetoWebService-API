@@ -169,7 +169,7 @@ rspec -fd spec/delete_spec.rb
 rspec -fd
 ````
 
-OBS: os métodos "get" e "delete", não foi possível realizar nesta API, mas o código se encontra por completo, cheguei até refazer a lógica e mesmo assim não consegui obter resposta com estes dois métodos. Fico a disposição da equipe sobre dúvidas ou suegstões que venham a ter sobre o código.
+OBS: os métodos "get" e "delete", não foi possível realizar nesta API, mas o código se encontra por completo, cheguei até refazer a lógica e mesmo assim não consegui obter resposta com estes dois métodos. Fico a disposição da equipe sobre dúvidas ou sugestões que venham a ter sobre o código.
 
 
 
