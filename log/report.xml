@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="1" skipped="0" failures="1" errors="0" time="0.909635" timestamp="2020-07-07T12:59:55-03:00" hostname="MacBook-Air.local">
+<properties>
+<property name="seed" value="49499"/>
+</properties>
+<testcase classname="spec.delete_spec" name="delete quando deletar um usuário cadastrado is expected to eql &quot;204&quot;" file="./spec/delete_spec.rb" time="0.883454"><failure message="
+expected: &quot;204&quot;
+     got: &quot;200&quot;
+
+(compared using eql?)
+" type="RSpec::Expectations::ExpectationNotMetError">Failure/Error: it { expect(result.response.code).to eql &quot;204&quot;}
+
+  expected: &quot;204&quot;
+       got: &quot;200&quot;
+
+  (compared using eql?)
+./spec/delete_spec.rb:6:in `block (3 levels) in &lt;top (required)&gt;&apos;</failure></testcase>
+</testsuite>
